@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-lmlratum:8e81beff0e5bf7ca86c8d8c299800a9d43079abd@sha256:474392d2f50797e0f25e72a8dfbc72ab797bbc38833941dae2f38cf7e63d8bf1
+        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-lmlratum:6163b2429e5a4269ee24224421b40f39f5548025@sha256:7ff72014b4a4bea9042adc94efae7ca7f22c9133948e980fbccb25614d15f808
           name: container-image
